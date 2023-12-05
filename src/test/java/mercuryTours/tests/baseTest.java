@@ -33,7 +33,7 @@ public class baseTest {
 	}
 	
 	public void gittest() {
-		System.out.println("This is the git test");
+		System.out.println("This is the git");
 	}
 
 	@BeforeMethod

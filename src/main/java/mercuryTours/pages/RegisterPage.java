@@ -91,6 +91,7 @@ public class RegisterPage {
 	}
 	
 	public void goTo() {
+		System.out.println("Git");
 		driver.get("https://demo.guru99.com/test/newtours/register.php");
 	}
 }
